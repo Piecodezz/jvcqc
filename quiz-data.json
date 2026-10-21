@@ -63,7 +63,6 @@
     { "id": "S059", "name": "Methul Randisa", "class": "6-G", "grade": "6" },
     { "id": "S060", "name": "Sheruka Shehansa", "class": "6-G", "grade": "6" },
     { "id": "S061", "name": "Savindu Nimsara", "class": "6-G", "grade": "6" },
-    { "id": "S062", "name": "Indusara", "class": "6-G", "grade": "6" },
     { "id": "S063", "name": "Nethuka", "class": "6-E", "grade": "6" },
     { "id": "S064", "name": "Eliyas Wickramasinghe", "class": "6-E", "grade": "6" },
     { "id": "S065", "name": "W. Indur Nithesh", "class": "6-E", "grade": "6" },
@@ -95,7 +94,7 @@
   "weeks": [
     {
       "week": 1,
-      "date": "2026-10-09",
+      "date": "2026-09-25",
       "title": "Week 1",
       "maxScore": 10,
       "results": [
@@ -159,7 +158,7 @@
     },
     {
       "week": 2,
-      "date": "2026-10-16",
+      "date": "2026-10-02",
       "title": "Week 2",
       "maxScore": 10,
       "results": [
@@ -170,7 +169,7 @@
         { "studentId": "S059", "score": 4 },
         { "studentId": "S060", "score": 4 },
         { "studentId": "S061", "score": 4 },
-        { "studentId": "S062", "score": 4 },
+        { "studentId": "S054", "score": 4 },
         { "studentId": "S063", "score": 4 },
         { "studentId": "S036", "score": 3 },
         { "studentId": "S064", "score": 3 },
