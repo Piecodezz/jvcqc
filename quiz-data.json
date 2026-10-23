@@ -89,7 +89,10 @@
     { "id": "S086", "name": "M. Dinuja Himsara", "class": "9-A", "grade": "9" },
     { "id": "S087", "name": "Thehan Kalana", "class": "10-F", "grade": "10/11" },
     { "id": "S088", "name": "Vithum Seneshka", "class": "10-G", "grade": "10/11" },
-    { "id": "S089", "name": "Sashen Oshada", "class": "11-G", "grade": "10/11" }
+    { "id": "S089", "name": "Sashen Oshada", "class": "11-G", "grade": "10/11" },
+    { "id": "S090", "name": "Shaveen Nimadith", "class": "6-F", "grade": "6" },
+    { "id": "S091", "name": "Kevin Karunanayake", "class": "10-G", "grade": "10/11" },
+    { "id": "S092", "name": "Dinath Randira", "class": "10-F", "grade": "10/11" }
   ],
   "weeks": [
     {
@@ -206,6 +209,30 @@
         { "studentId": "S088", "score": 5 },
         { "studentId": "S035", "score": 4 },
         { "studentId": "S089", "score": 3 }
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-10-10",
+      "title": "Week 3",
+      "maxScore": 10,
+      "results": [
+        { "studentId": "S054", "score": 2 },
+        { "studentId": "S052", "score": 3 },
+        { "studentId": "S090", "score": 1 },
+        { "studentId": "S067", "score": 5 },
+        { "studentId": "S068", "score": 2 },
+        { "studentId": "S082", "score": 1 },
+        { "studentId": "S013", "score": 3 },
+        { "studentId": "S084", "score": 4 },
+        { "studentId": "S020", "score": 6 },
+        { "studentId": "S085", "score": 5 },
+        { "studentId": "S086", "score": 4 },
+        { "studentId": "S015", "score": 5 },
+        { "studentId": "S087", "score": 6 },
+        { "studentId": "S034", "score": 5 },
+        { "studentId": "S091", "score": 4 },
+        { "studentId": "S092", "score": 5 }
       ]
     }
   ]
