@@ -37,7 +37,7 @@
     { "id": "S034", "name": "Rasula Mihisara Jayakody", "class": "10-G", "grade": "10/11" },
     { "id": "S035", "name": "Manula Deshan Thisera", "class": "10-G", "grade": "10/11" },
     { "id": "S036", "name": "Lithum Anjana", "class": "6-E", "grade": "6" },
-    { "id": "S037", "name": "Ishdur Hithesh", "class": "6-E", "grade": "6" },
+    { "id": "S037", "name": "Indur  Hithesh", "class": "6-E", "grade": "6" },
     { "id": "S038", "name": "Dian Miures", "class": "6-E", "grade": "6" },
     { "id": "S039", "name": "Hsidu Yuthmira", "class": "6-E", "grade": "6" },
     { "id": "S040", "name": "Nidew Okitha", "class": "6-B", "grade": "6" },
@@ -90,7 +90,10 @@
     { "id": "S089", "name": "Sashen Oshada", "class": "11-G", "grade": "10/11" },
     { "id": "S090", "name": "Shaveen Nimadith", "class": "6-F", "grade": "6" },
     { "id": "S091", "name": "Kevin Karunanayake", "class": "10-G", "grade": "10/11" },
-    { "id": "S092", "name": "Dinath Randira", "class": "10-F", "grade": "10/11" }
+    { "id": "S092", "name": "Dinath Randira", "class": "10-F", "grade": "10/11" },
+    { "id": "S093", "name": "Shakun", "class": "6-E", "grade": "6" },
+    { "id": "S094", "name": "Thenuja Damsas", "class": "6-D", "grade": "6" },
+    { "id": "S095", "name": "Vish Abhiman", "class": "6-E", "grade": "6" }
   ],
   "weeks": [
     {
@@ -231,6 +234,38 @@
         { "studentId": "S034", "score": 5 },
         { "studentId": "S091", "score": 4 },
         { "studentId": "S092", "score": 5 }
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-30",
+      "title": "Week 4",
+      "maxScore": 10,
+      "results": [
+        { "studentId": "S007", "score": 4 },
+        { "studentId": "S057", "score": 4 },
+        { "studentId": "S058", "score": 4 },
+        { "studentId": "S051", "score": 4 },
+        { "studentId": "S054", "score": 3 },
+        { "studentId": "S063", "score": 4 },
+        { "studentId": "S036", "score": 5 },
+        { "studentId": "S065", "score": 4 },
+        { "studentId": "S093", "score": 3 },
+        { "studentId": "S001", "score": 4 },
+        { "studentId": "S094", "score": 3 },
+        { "studentId": "S003", "score": 3 },
+        { "studentId": "S095", "score": 3 },
+        { "studentId": "S013", "score": 3 },
+        { "studentId": "S084", "score": 4 },
+        { "studentId": "S020", "score": 6 },
+        { "studentId": "S085", "score": 6 },
+        { "studentId": "S086", "score": 5 },
+        { "studentId": "S025", "score": 5 },
+        { "studentId": "S017", "score": 6 },
+        { "studentId": "S031", "score": 5 },
+        { "studentId": "S087", "score": 4 },
+        { "studentId": "S034", "score": 4 },
+        { "studentId": "S033", "score": 4 }
       ]
     }
   ]
